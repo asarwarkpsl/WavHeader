@@ -1,0 +1,15 @@
+E:\Projects\WavHeader\bin\Debug\net6.0\WavHeader.exe
+E:\Projects\WavHeader\bin\Debug\net6.0\WavHeader.deps.json
+E:\Projects\WavHeader\bin\Debug\net6.0\WavHeader.runtimeconfig.json
+E:\Projects\WavHeader\bin\Debug\net6.0\WavHeader.dll
+E:\Projects\WavHeader\bin\Debug\net6.0\ref\WavHeader.dll
+E:\Projects\WavHeader\bin\Debug\net6.0\WavHeader.pdb
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.csproj.AssemblyReference.cache
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.AssemblyInfoInputs.cache
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.AssemblyInfo.cs
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.csproj.CoreCompileInputs.cache
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.dll
+E:\Projects\WavHeader\obj\Debug\net6.0\ref\WavHeader.dll
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.pdb
+E:\Projects\WavHeader\obj\Debug\net6.0\WavHeader.genruntimeconfig.cache
