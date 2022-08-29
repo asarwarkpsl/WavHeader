@@ -4,7 +4,9 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Wav Header");
+            WavHeader.ReadMetaData("sample.wav");
+
+            //Console.WriteLine($"Wav header info: {result}");
         }
     }
 }
